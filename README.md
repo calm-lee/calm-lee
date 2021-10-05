@@ -1,6 +1,7 @@
-### 🤘Hi there🤘
+<div align=center>
+<b> 🤘Hi there🤘</b><br><br>
 Weclome to Calm-Lee's space, a back-end web developer.
-
+</div>
 <!--
 **calm-lee/calm-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
