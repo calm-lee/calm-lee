@@ -1,6 +1,6 @@
 <div align=center>
 💖💖💖
-<b><h3>🤟Hi ther🤟 </h3></b>
+<b><h3>🤟Hi there🤟 </h3></b>
 Weclome to Calm-Lee's space, a back-end web developer.💻
   <br><br>
 💖💖💖
