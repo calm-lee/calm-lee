@@ -2,8 +2,6 @@
 💖💖💖
 <b><h3>🤟Hi there🤟 </h3></b>
 Welome to Calm-Lee's space, a back-end web developer specialized in Java.💻
-
-[About ME](https://tar-elbow-b75.notion.site/EUI-YEON-LEE-c9c0aa56476a48d0b719750366bc903c)
 <br><br>
 💖💖💖
 </div>
