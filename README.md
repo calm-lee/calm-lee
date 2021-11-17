@@ -1,7 +1,7 @@
 <div align=center>
 💖💖💖
 <b><h3>🤟Hi there🤟 </h3></b>
-Welome to Calm-Lee's space, a back-end web developer specialized in Java.💻
+Welcome to Calm-Lee's space, a back-end web developer specialized in Java.💻
 <br><br>
 💖💖💖
 </div>
