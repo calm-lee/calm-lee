@@ -1,7 +1,7 @@
 <div align=center>
 💖💖💖
   <b><h2>WELCOME </h2></b>
- 안녕하세요, 안주하지 않고 발전하는 개발자 이의연입니다.
+ 안녕하세요, 끊임없이 배우는 개발자 이의연입니다.
   <br>
 Welcome to Calm-Lee's space, a back-end web developer specialized in Java.💻
 <br><br>
