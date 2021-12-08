@@ -22,6 +22,7 @@ Welcome to Calm-Lee's space, a back-end web developer specialized in Java.💻
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-0052CC?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
 💖💖💖
 </div>
