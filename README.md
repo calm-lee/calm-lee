@@ -3,11 +3,15 @@
   <b><h2>WELCOME </h2></b>
  안녕하세요, 끊임없이 배우는 개발자 이의연입니다.
   <br>
-Welcome to Calm-Lee's space, a back-end web developer specialized in Java.💻
+Welcome to Calm-Lee's space💻
 <br><br>
   <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white">
   </p>
      <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
