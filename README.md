@@ -3,7 +3,7 @@
   <b><h2>WELCOME </h2></b>
  안녕하세요, 끊임없이 배우는 개발자 이의연입니다.
   <br>
-Welcome to Calm-Lee's space💻
+Welcome to Calm-Lee's space. 💻
 <br><br>
   <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
