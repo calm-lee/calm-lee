@@ -27,7 +27,6 @@ Welcome to Calm-Lee's space, a web developer developing her own area consistentl
   <img src="https://img.shields.io/badge/AWS-0052CC?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
-💖💖💖
 </div>
 <!--
 **calm-lee/calm-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
