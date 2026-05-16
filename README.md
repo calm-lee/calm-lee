@@ -1,6 +1,6 @@
 <div align=center>
   <b><h2>WELCOME </h2></b>
-Welcome to Calm-Lee's space, a web developer broadening her own area consistently. 💻
+Welcome to Calm-Lee's space, a web developer broadening her area consistently. 💻
 <br><br>
   <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
